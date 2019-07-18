@@ -1,2 +1,0 @@
-# AdvancedComponent
-Created with CodeSandbox
